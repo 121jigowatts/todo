@@ -14,3 +14,6 @@
 * Google Cloud Platform
 * Python
 * Ruby on Rails
+* Raspberry Pi
+* MongoDB
+* ASP.NET Core MVC
