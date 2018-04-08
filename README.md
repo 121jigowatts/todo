@@ -1,7 +1,9 @@
-# ToDo 2018.02.28
+# ToDo 2018.04.08
 
 ## すぐやること
 
+* Ruby on Rails
+* Spring Boot
 * Docker環境構築
   * ~~Docker Toolboxインストール~~
   * ~~Docker Hubアカウント作成~~
@@ -14,7 +16,6 @@
 * React
 * Google Cloud Platform
 * Python
-* Ruby on Rails
 * Raspberry Pi
 * MongoDB
 * ASP.NET Core MVC
