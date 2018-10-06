@@ -1,21 +1,21 @@
-# ToDo 2018.04.08
+# ToDo
 
 ## すぐやること
 
-* Ruby on Rails
 * Spring Boot
+* Python
+* Ruby on Rails
 * Docker環境構築
   * ~~Docker Toolboxインストール~~
   * ~~Docker Hubアカウント作成~~
   * ~~自動生成~~
 * GitLab環境構築
-* メモリ増設
+* ~~メモリ増設~~
 
 ## あとでやること
 
 * React
 * Google Cloud Platform
-* Python
 * Raspberry Pi
 * MongoDB
 * ASP.NET Core MVC
