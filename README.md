@@ -4,6 +4,7 @@
 
 * Spring Boot
 * Python
+* Vue.js
 * Ruby on Rails
 * Docker環境構築
   * ~~Docker Toolboxインストール~~
