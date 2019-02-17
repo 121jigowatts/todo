@@ -3,11 +3,10 @@
 ## すぐやること
 
 * Spring Boot
-* Vue.js
-* Ruby on Rails
 * Gradle
 * CircleCI
-* Python
+* Vue.js
+* Azure
 
 ## あとでやること
 
@@ -16,3 +15,5 @@
 * Raspberry Pi
 * MongoDB
 * ASP.NET Core MVC
+* Ruby on Rails
+* Python
