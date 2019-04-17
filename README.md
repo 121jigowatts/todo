@@ -7,6 +7,7 @@
 * CircleCI
 * Vue.js
 * Azure
+  * [https://docs.microsoft.com/ja-jp/learn/](https://docs.microsoft.com/ja-jp/learn/)
 
 ## あとでやること
 
